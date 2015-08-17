@@ -6,6 +6,8 @@ int main() {
 
 
 	cout << "Hui\n";
+	cout << "Hui\n";
+	cout << "Hui\n";
 	system("pause");
 	return 0;
 }
